@@ -71,3 +71,6 @@ KLEE commands that will be useful:
 
 We provide a running example, test.c, and the run scripts for each mode of 
 execution (runCommon.sh, runOne.sh, and runSingle.sh).
+
+Please refer to SIFTICST2022Presentation.pptx for an overview of the 
+approach and the bugs found in test.c.
