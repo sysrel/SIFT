@@ -1,0 +1,1 @@
+$SIFT -prose-api-model=model.txt -async=true -num-explore-sel=0 -apply-inferpoints-indiv=true -conc-info="concurrencyInfo.txt" -target-function-list=targetFunctions.txt -static-relevance-depth=3 -max-infer-time=5 -max-select-time=50 -max-sel-states=10 -emit-all-errors=true -watchdog -max-time=500 -write-kqueries $1

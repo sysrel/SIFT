@@ -1,0 +1,1 @@
+$SIFT -prose-api-model=model.txt -async=true -num-explore-sel=1 -conc-info="concurrencyInfo.txt" -target-function-list=targetFunctions.txt -remember-ip=true -emit-all-errors=true -watchdog -max-time=500 -write-kqueries $1

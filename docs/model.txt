@@ -1,0 +1,10 @@
+global settings:
+
+data models:
+
+function models:
+
+lifecycle model:
+
+  entry-point main
+

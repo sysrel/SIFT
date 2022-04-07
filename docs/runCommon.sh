@@ -1,0 +1,1 @@
+$SIFT -prose-api-model=model.txt -async=true -num-explore-sel=2 -partition-infer-points=true -conc-info="concurrencyInfo.txt" -target-function-list=targetFunctions.txt -interleaving-point-info=partitions.txt -max-time=500 -write-kqueries $1
